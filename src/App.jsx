@@ -8,7 +8,7 @@ function App() {
     initialInvestment: 1000,
     annualInvestment: 1200, 
     expectedReturn: 6,
-    duration: 10,
+    duration: 10, 
   });
 
   function handleChange(inputIdentifier, newValue) {
